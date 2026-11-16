@@ -24,3 +24,4 @@ Afin d’évaluer le niveau de sécurité attendue, les questions suivantes peuv
 # De quoi je veux me protéger ?
 # A quel type de risques mon organisation est exposée ?
 # Qu’est ce que je redoute ?
+# Quelles sont les normes qui s’appliquent à mon organisation ?
